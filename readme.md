@@ -36,7 +36,7 @@
 
 ## WordPress
 * [Template Monster](https://www.templatemonster.com/) - 50% off.
-* [https://www.csshero.org](https://www.csshero.org) - Upto 60% off.
+* [CSS Hero](https://www.csshero.org) - Upto 60% off.
 * [WPForms](https://wpforms.com/) - 60% off.
 * [ThemeFuse](https://themefuse.com/) - 50% off.
 
