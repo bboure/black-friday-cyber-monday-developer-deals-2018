@@ -7,6 +7,7 @@
 - [Hosting](#hosting)
 - [Domains](#domains)
 - [WordPress](#wordpress)
+- [Hardware](#hardware)
 
 
 ## Training
@@ -50,3 +51,6 @@
 * [Themeum](https://www.themeum.com/black-friday/) - 50% off.
 * [Astra](https://wpastra.com) - Upto 30% off.
 * [Optinmonster](https://optinmonster.com/) - 35% off.
+
+## Hardware
+* [Google Hardware](https://store.google.com/category/black_friday_cyber_monday_promos) - Upto 50% off.
