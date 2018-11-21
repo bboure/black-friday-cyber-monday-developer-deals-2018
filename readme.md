@@ -7,7 +7,6 @@
 - [Hosting](#hosting)
 - [Domains](#domains)
 - [WordPress](#wordpress)
-- [Hardware](#hardware)
 
 
 ## Training
@@ -21,12 +20,14 @@
 
 ## Design
 * [IconJar](https://geticonjar.com/) - 40% off. Use code `"BlackFriday2018"`
+* [Iconfinder](https://www.iconfinder.com/) - 70% off. Use code `"BLACKFRIDAY18"`
 
 ## Software
 * [Adobe Creative Cloud](https://www.adobe.com/) - 25% off
 * [GitKraken](https://www.gitkraken.com/) - 20% off GitKraken Pro. Use Code `”GKBF18”`
 * [Affinity](https://affinity.serif.com) - 30% off all products.
 * [Paste](https://pasteapp.me/) - 30% off. Use code `"BLACK-FRIDAY-2018"`
+* [PDF Expert](https://pdfexpert.com/) - 40% off.
 
 ## Hosting
 * [RemoteMac](https://remotemac.io/blackfriday) - Upto 50% off. 
@@ -39,5 +40,3 @@
 * [CSS Hero](https://www.csshero.org) - Upto 60% off.
 * [WPForms](https://wpforms.com/) - 60% off.
 * [ThemeFuse](https://themefuse.com/) - 50% off.
-
-## Hardware
