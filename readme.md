@@ -19,6 +19,7 @@
 * [Learn Node](https://learnnode.com/) - 50% off.
 * [ES6 For Everyone](https://es6.io/) - 50% off.
 * [Laracasts](https://laracasts.com/sales/2018) - 50% off all subscriptions.
+* [Mike Driscoll's Python books](https://www.blog.pythonlibrary.org/2018/11/21/black-friday-cyber-monday-sale-2018/) - most for $10
 
 ## Design
 * [IconJar](https://geticonjar.com/) - 40% off. Use code `"BlackFriday2018"`
