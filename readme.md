@@ -24,6 +24,9 @@
 * [Learn AWS By Using It](https://www.kylegalbraith.com/learn-aws) - 60% off all packages. Use code `"learnaws18"`.
 * [Vue School](https://vueschool.io/) - 40% off.
 * [MegaMaker](https://megamaker.co/blackfriday/) - Upto 65% off.
+* [VSCode Power User](https://vscode.pro/) - 40% off.
+* [Advanced Vue Component Design, Test-Driven Laravel, and Refactoring to Collections](https://adamwathan.me/black-friday-2018/) - Up to 70% off.
+
 
 ## Design
 * [IconJar](https://geticonjar.com/) - 40% off. Use code `"BlackFriday2018"`
