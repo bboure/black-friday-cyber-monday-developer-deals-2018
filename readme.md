@@ -19,7 +19,7 @@
 * [Learn Node](https://learnnode.com/) - 50% off.
 * [ES6 For Everyone](https://es6.io/) - 50% off.
 * [Laracasts](https://laracasts.com/sales/2018) - 50% off all subscriptions.
-* [Learn AWS By Using It](https://www.kylegalbraith.com/learn-aws) - 60% off all packages. Use code `learnaws18` at checkout.
+* [Learn AWS By Using It](https://www.kylegalbraith.com/learn-aws) - 60% off all packages. Use code `"learnaws18"`.
 
 ## Design
 * [IconJar](https://geticonjar.com/) - 40% off. Use code `"BlackFriday2018"`
