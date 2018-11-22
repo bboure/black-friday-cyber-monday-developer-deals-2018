@@ -22,6 +22,7 @@
 * [Mike Driscoll's Python books](https://www.blog.pythonlibrary.org/2018/11/21/black-friday-cyber-monday-sale-2018/) - most for $10
 * [Udemy](https://www.udemy.com/) - tons of courses on sale at $10, including [AWS Lambda and the Serverless Framework - Hands On Learning!](https://www.udemy.com/aws-lambda-serverless/), usually $100!
 * [Learn AWS By Using It](https://www.kylegalbraith.com/learn-aws) - 60% off all packages. Use code `"learnaws18"`.
+* [Vue School](https://vueschool.io/) - 40% off.
 
 ## Design
 * [IconJar](https://geticonjar.com/) - 40% off. Use code `"BlackFriday2018"`
