@@ -40,25 +40,25 @@
 * [PDF Expert](https://pdfexpert.com/) - 40% off.
 
 ## Hosting
-* [RemoteMac](https://remotemac.io/blackfriday) - Upto 50% off. 
-* [Bluehost](https://www.bluehost.com/special/black-friday-sale) - Upto 60% off.
+* [RemoteMac](https://remotemac.io/blackfriday) - Up to 50% off.
+* [Bluehost](https://www.bluehost.com/special/black-friday-sale) - Up to 60% off.
 * [A2 Hosting](https://www.a2hosting.com/) - 67% off.
-* [Hostinger](https://www.hostinger.com/) - Upto 90% off.
+* [Hostinger](https://www.hostinger.com/) - Up to 90% off.
 
 ## Domains
-* [Namecheap](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) - Upto 98% off.
+* [Namecheap](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) - Up to 98% off.
 
 ## WordPress
 * [Template Monster](https://www.templatemonster.com/) - 50% off.
-* [CSS Hero](https://www.csshero.org) - Upto 60% off.
+* [CSS Hero](https://www.csshero.org) - Up to 60% off.
 * [WPForms](https://wpforms.com/) - 60% off.
 * [ThemeFuse](https://themefuse.com/) - 50% off.
-* [The Events Calendar](https://theeventscalendar.com/) - Upto 30% off.
+* [The Events Calendar](https://theeventscalendar.com/) - Up to 30% off.
 * [Divi Cake](https://divicake.com/black-friday/) - 40% off.
 * [Iconic](https://iconicwp.com/bundles/) - 50% off.
 * [Themeum](https://www.themeum.com/black-friday/) - 50% off.
-* [Astra](https://wpastra.com) - Upto 30% off.
+* [Astra](https://wpastra.com) - Up to 30% off.
 * [Optinmonster](https://optinmonster.com/) - 35% off.
 
 ## Hardware
-* [Google Hardware](https://store.google.com/category/black_friday_cyber_monday_promos) - Upto 50% off.
+* [Google Hardware](https://store.google.com/category/black_friday_cyber_monday_promos) - Up to 50% off.
