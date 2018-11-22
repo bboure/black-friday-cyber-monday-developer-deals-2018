@@ -19,6 +19,7 @@
 * [Learn Node](https://learnnode.com/) - 50% off.
 * [ES6 For Everyone](https://es6.io/) - 50% off.
 * [Laracasts](https://laracasts.com/sales/2018) - 50% off all subscriptions.
+* [Udemy](https://www.udemy.com/) - tons of courses on sale at $10, including [AWS Lambda and the Serverless Framework - Hands On Learning!](https://www.udemy.com/aws-lambda-serverless/), usually $100!
 * [Learn AWS By Using It](https://www.kylegalbraith.com/learn-aws) - 60% off all packages. Use code `"learnaws18"`.
 
 ## Design
