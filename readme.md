@@ -49,6 +49,7 @@
 * [A2 Hosting](https://www.a2hosting.com/) - 67% off.
 * [Hostinger](https://www.hostinger.com/) - Up to 90% off.
 * [Hostgator](https://www.hostgator.com/) - Up to 65% off.
+* [Planet Hoster](https://www.planethoster.com/goph-345a6ce967ced14) - 25% off.
 
 ## Domains
 * [Namecheap](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) - Up to 98% off.
