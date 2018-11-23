@@ -37,6 +37,7 @@
 ## Software
 * [Adobe Creative Cloud](https://www.adobe.com/) - 25% off.
 * [GitKraken](https://www.gitkraken.com/) - 20% off GitKraken Pro. Use Code `”GKBF18”`
+* [Tower](https://www.git-tower.com/) - 50% off.
 * [Affinity](https://affinity.serif.com) - 30% off all products.
 * [Paste](https://pasteapp.me/) - 30% off. Use code `"BLACK-FRIDAY-2018"`
 * [PDF Expert](https://pdfexpert.com/) - 40% off.
