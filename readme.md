@@ -11,7 +11,7 @@
 
 
 ## Training
-* [Vue Mastery](https://www.vuemastery.com/) - 35% off on yearly plan. Use code `"BLACKFRIDAY"` 
+* [Vue Mastery](https://www.vuemastery.com/) - 35% off on yearly plan. Use code `"BLACKFRIDAY"`
 * [Design + Code](https://designcode.io/) - 50% off.
 * [Level Up Tutorials](https://www.leveluptutorials.com/) - 50% off on yearly plan.
 * [React for Beginners](https://reactforbeginners.com/) - 50% off.
@@ -26,6 +26,8 @@
 * [MegaMaker](https://megamaker.co/blackfriday/) - Upto 65% off.
 * [VSCode Power User](https://vscode.pro/) - 40% off.
 * [Advanced Vue Component Design, Test-Driven Laravel, and Refactoring to Collections](https://adamwathan.me/black-friday-2018/) - Up to 70% off.
+* [Painless Docker Training](https://painlessdocker.com/black-friday-deals/) - 75% off
+* [Practical AWS Training](https://practicalaws.com/black-friday-deals/) - 75% off
 
 
 ## Design
