@@ -66,3 +66,4 @@
 
 ## Hardware
 * [Google Hardware](https://store.google.com/category/black_friday_cyber_monday_promos) - Up to 50% off.
+* [Yubico](https://www.yubico.com/save/) - 20% off 2 Packs of the 5 Nano and 5C Nano.
