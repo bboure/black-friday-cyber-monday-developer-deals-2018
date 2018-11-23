@@ -41,6 +41,7 @@
 * [Affinity](https://affinity.serif.com) - 30% off all products.
 * [Paste](https://pasteapp.me/) - 30% off. Use code `"BLACK-FRIDAY-2018"`
 * [PDF Expert](https://pdfexpert.com/) - 40% off.
+* [Framer X](https://framer.com/) - 30% off.
 
 ## Hosting
 * [RemoteMac](https://remotemac.io/blackfriday) - Up to 50% off.
